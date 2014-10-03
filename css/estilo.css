@@ -1,0 +1,569 @@
+body{
+	background-image:url("../img/fundo.jpg");
+
+
+}
+
+.container{
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+/*=========================================================
+
+					        HOME
+
+=============================================================*/
+header{
+	position: relative;
+}
+
+header div{
+	position: absolute;
+	width: 11.25%;
+	right: 0;
+}
+
+.menu_mobile{
+	background: cyan;
+	height: 50px;
+	display: none;
+}
+
+.menu_mobile ul{
+	width: 50%;
+	background:cyan;
+	/*margin: 0 auto;*/
+	font-family: 'Annie Use Your Telescope', cursive;
+	color:#b00;
+	font-size: 2em;
+	text-transform: uppercase;
+	display: block;
+}
+
+.menu_mobile a{
+	text-decoration: none;
+	color: #070b5f;
+}
+
+.menu_mobile a:hover{
+	text-decoration: none;
+	color: #b00;
+}
+
+
+/*============ Aqui é o final do HEADER =================*/
+
+main{
+	position: relative;
+	height: 470px;
+	top:35px;
+}
+
+main h1 img{
+	width: 100%;
+}
+
+main h1{
+	position: relative;
+	width: 240px;
+	left: 34.89583333333333%;
+	top: 36.17021276595745%;
+	/*opacity: 0;*/
+	/*transition-property: opacity;
+	transition-duration: 1s;
+	transition-timing-function: linear;
+	*/
+}
+
+
+
+#primeira{
+
+	position: absolute;
+	top:27.02127659574468%;
+	left: 49.47916666666667%;
+}
+
+#segunda{
+
+	position: absolute;
+	left: 39.0625%;
+	top: 14.042553191489363%;
+}
+
+#terceira{
+	position: absolute;
+	left: 29.166666666666668%;
+	top:32.97872340425532%;
+}
+
+#quarta{
+
+	position: absolute;
+	left: 28.125%;
+	top:57.446808510638306%;
+}
+
+#quinta{
+
+	position: absolute;
+	left: 32.29166666666667%;
+	top:72.76595744680851%;
+}
+
+#sexta{
+
+	position: absolute;
+	left: 40.625%;
+	top:74.46808510638297%;
+}
+
+#setima{
+
+	position: absolute;
+	left: 54.166666666666664%;
+	top:70.2127659574468%;
+}
+
+#oitava{
+
+	position: absolute;
+	left: 54.479166666666664%;
+	top:48.93617021276596%;
+}
+
+#nona{
+
+	position: absolute;
+	left: 54.6875%;
+	top:40.42553191489361%;
+}
+
+#decima{
+
+	position: absolute;
+	left: 17.1875%;
+	top:34.04255319148936%;
+}
+
+#decima-primeira{
+
+	position: absolute;
+	left: 22.916666666666664%;
+	top:63.829787234042556%;
+}
+
+#decima-segunda{
+
+	position: absolute;
+	left: 20.833333333333336%;
+	top:70.2127659574468%;
+}
+
+#decima-terceira{
+
+	position: absolute;
+	left: 23.958333333333336%;
+	top:71.27659574468085%;
+}
+
+#decima-quarta{
+
+	position: absolute;
+	left: 65.625%;
+	top:28.723404255319153%;
+}
+
+#decima-quinta{
+
+	position: absolute;
+	left: 77.08333333333334%;
+	top:24.46808510638298%;
+}
+
+#decima-sexta{
+
+	position: absolute;
+	left: 83.85416666666666%;
+	top:28.723404255319153%;
+}
+
+
+
+
+/* ============= Aqui é o final do MAIN ================*/
+
+footer{
+	margin: 0 auto;
+}
+
+footer ul{
+	width: 62.5%;
+	/*background:cyan;*/
+	margin: 6.666666666666667% auto 0 auto;
+	font-family: 'Annie Use Your Telescope', cursive;
+	color:#b00;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+footer a{
+	text-decoration: none;
+	color: #070b5f;
+}
+
+footer a:hover{
+	text-decoration: none;
+	color: #b00;
+}
+
+footer li{
+	display: inline-block;
+	width: 140px;
+	text-align: center;
+	/*background: cyan;*/
+}
+
+#linha{
+	height: 37px;
+	bottom: 37px;
+	margin: 30px auto 0 auto;
+}
+
+/*============= Aqui é o final do FOOTER ==============*/
+
+
+/*-------Media Query-------------*/
+@media screen and (min-width: 320px) and (max-width: 600px){
+
+	header div{
+		display: none;
+	}
+
+	.menu_mobile{
+		display: block;
+	}	
+
+	#primeira, #segunda, #terceira, #quarta, #quinta, #sexta, #setima, #oitava, #nona, #decima, #decima-primeira, #decima-segunda, #decima-terceira, #decima-quarta, #decima-quinta, #decima-sexta, #linha{
+		display: none;
+	}
+
+	main{
+		background: cyan;
+		height: 100%;
+		/*position: relative;*/
+		width: 100%;
+	}
+
+	main h1{
+		background: yellow;
+		top:10%;
+		left: 13%;
+	}
+
+	footer ul{
+		display:none;
+	}
+
+
+		
+}
+
+
+
+/*=========================================================
+
+					    FIM DA HOME
+
+=============================================================*/
+
+/*===================  SOBRE =======================*/
+
+#sobre_1{
+	width: 235px;
+	/*background: cyan;*/
+	position: absolute;
+	left: 0;
+	top:0;
+}
+
+#sobre_2{
+	width: 186px;
+	/*background: cyan;*/
+	position: absolute;
+	right: 0;
+	bottom:0;
+}
+
+#sobre_3{
+	width: 186px;
+	/*background: cyan;*/
+	position: absolute;
+	left: 100px;
+	bottom:0px;
+}
+
+.sobre{
+	opacity: 0;
+}
+
+main article{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 1.5em;
+	line-height: 32px;
+	color: #070b5f;
+	width: 590px;
+	height:280px;
+	position: absolute;
+	left: 235px;
+	top:60px;
+	/*font-weight: 100;*/
+	/*opacity: 0;*/
+}
+
+/*=========================================================
+
+					    FIM DO SOBRE
+
+=============================================================*/
+
+/*===================  CONTATO =======================*/
+
+#contato_2{
+	width: 187px;
+	position: absolute;
+	right: 0px;
+	top:40px;
+}
+
+#contato_3{
+	width: 48px;
+	/*background: cyan;*/
+	position: absolute;
+	left: 65px;
+	top:250px;
+}
+
+#contato_4{
+	width: 108px;
+	/*background: cyan;*/
+	position: absolute;
+	left: 75px;
+	top:350px;
+}
+
+#contato_7{
+	width: 438px;
+	/*background: cyan;*/
+	position: absolute;
+	left: 270px;
+	top:135px;
+}
+
+#contato_8{
+	width: 438px;
+	/*background: cyan;*/
+	position: absolute;
+	left: 270px;
+	top:170px;
+}
+
+#contato_9{
+	width: 441px;
+	/*background: cyan;*/
+	position: absolute;
+	left: 270px;
+	top:205px;
+}
+
+#contato-chamado{
+	width: 550px;
+	position: absolute;
+	left: 200px;
+	top:60px;	
+}
+
+#contato-chamado li{
+	display: inline-block;
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 1.5em;
+	color: #070b5f;
+}
+
+#contato-sucesso{
+	width: 550px;
+	position: absolute;
+	left: 285px;
+	top:200px;
+}
+
+#contato-sucesso li{
+	display: inline-block;
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 1.8em;
+	color: #070b5f;
+	vertical-align: middle;
+	margin-left: 5px;
+}
+
+.contato{
+	opacity: 0;
+}
+
+fieldset{
+	position: absolute;
+	left:202px;
+	top:135px;
+}
+
+fieldset #nome label,
+			#email label,
+				#msg label{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 1.5em;
+	color: #070b5f;
+}
+
+fieldset #email, #msg{
+	margin-top: 3px;
+}
+
+
+fieldset #nome label{
+	margin-left: 20px;
+}
+
+fieldset #email label{
+	margin-left: 13px;
+}
+
+fieldset #msg label{
+	margin-left: -20px;
+}
+
+.campoformulario{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 1.4em;
+	background-color: transparent;
+	border: 0;
+	outline: 0;
+	color: #b70000;
+}
+
+fieldset #nome input{
+	width: 420px;
+	height: 27px;
+}
+
+fieldset #email input{
+	width: 420px;
+	height: 27px;
+}
+
+fieldset #msg textarea{
+	width: 420px;
+	height: 205px;
+}
+
+fieldset input[type="image"]{
+	position: absolute;
+	left: 397px;
+	top:295px;
+	outline: 0;
+}
+
+/*=========================================================
+
+					    FIM CONTATO
+
+=============================================================*/
+
+/*===================  TRABALHOS =======================*/
+
+#trabalhos-todos{
+	position: absolute;
+	width: 100%;
+	left: 0px;
+	top:60px;
+}
+
+#trabalhos-todos ul{
+	width: 791px;
+	margin: 0 auto;
+
+}
+
+#trabalhos-todos ul li{
+	display: inline-block;
+	width: 261px;
+	height:176px;
+	background-image: url(../img/trabalhos_1.png);
+	text-align: center;
+}
+
+#trabalhos-todos li img{
+	width: 232px;
+	height: 145px;
+	margin-top: 12px;
+
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
+	filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(100%);
+}
+
+#trabalhos-todos li img:hover{
+	transition: all .3s ease;
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+    -webkit-filter: grayscale(0%);
+}
+
+.numeros img{
+	opacity: .3;
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
+	filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(100%);
+}
+
+.numeros img:hover{
+	opacity: 1;
+	transition: all .7s ease;
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+    -webkit-filter: grayscale(0%);
+}
+
+#paginacao{
+	position: absolute;
+	/*background:cyan;*/
+	width: 350px;
+	height: 55px; 
+	right: 90px;
+	top: 420px;
+}
+
+#seta-esquerda{
+	position: absolute;
+	width: 24px;
+	left: 0;
+	top: 12px;
+}
+
+#seta-direita{
+	position: absolute;
+	width: 24px;
+	right: 0;
+	top: 12px;
+}
+
+#paginacao ul{
+	position: absolute;
+	right: 0;
+	top: 12px;
+}
+
+#paginacao ul li{
+	display: inline-block;
+	width: 34px;
+	height: 34px;
+}

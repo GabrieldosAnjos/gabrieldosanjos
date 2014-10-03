@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutsmais</title>
+	<atom:link href="http://tutsmais.com.br/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tutsmais.com.br/blog</link>
+	<description>+ tutoriais e dicas</description>
+	<lastBuildDate>Mon, 17 Feb 2014 12:01:51 +0000</lastBuildDate>
+	<language>pt-BR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Como deixar o jQuery UI Datepicker em pt-br e vários outros idiomas</title>
+		<link>http://tutsmais.com.br/blog/jquery/como-deixar-o-jquery-ui-datepicker-em-pt-br-e-varios-outros-idiomas/</link>
+		<comments>http://tutsmais.com.br/blog/jquery/como-deixar-o-jquery-ui-datepicker-em-pt-br-e-varios-outros-idiomas/#comments</comments>
+		<pubDate>Mon, 17 Feb 2014 11:58:14 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[jquery]]></category>
+		<category><![CDATA[jquery-ui]]></category>
+		<category><![CDATA[tip]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1951</guid>
+		<description><![CDATA[<p>Pesquisando na internet, o primeiro resultado que encontramos sobre a tradução do datepicker do jQuery UI é um repositório no Google Code de 2009, acontece que isso está bem desatualizado, ai encontrei atual repositório do jQuery UI, onde tem uma &#8230; <a href="http://tutsmais.com.br/blog/jquery/como-deixar-o-jquery-ui-datepicker-em-pt-br-e-varios-outros-idiomas/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/jquery/como-deixar-o-jquery-ui-datepicker-em-pt-br-e-varios-outros-idiomas/">Como deixar o jQuery UI Datepicker em pt-br e vários outros idiomas</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tutsmais.com.br/blog/wp-content/uploads/2014/02/jquery-ui-logo.jpg" alt="jquery-ui-logo" width="600" height="300" class="aligncenter size-full wp-image-1952" /><br />
+Pesquisando na internet, o primeiro resultado que encontramos sobre a tradução do <a href="http://jqueryui.com/datepicker/" target="_blank">datepicker do jQuery UI</a> é um repositório no <a href="https://code.google.com/p/jquery-ui/source/browse/trunk/ui/i18n/?r=3004" target="_blank">Google Code de 2009</a>, acontece que isso está bem desatualizado, ai encontrei atual repositório do jQuery UI, onde tem <a href="https://github.com/jquery/jquery-ui/tree/master/ui/i18n" target="_blank">uma pasta chamada i18n com muito mais idiomas e devidamente atualizados</a>.</p>
+<p>Bom, essa é a dica de hoje <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/jquery/como-deixar-o-jquery-ui-datepicker-em-pt-br-e-varios-outros-idiomas/">Como deixar o jQuery UI Datepicker em pt-br e vários outros idiomas</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/jquery/como-deixar-o-jquery-ui-datepicker-em-pt-br-e-varios-outros-idiomas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Como inserir elementos no HTML com JavaScript</title>
+		<link>http://tutsmais.com.br/blog/dom4/como-inserir-elementos-html-com-javascript-ou-como-usar-insertadjacenthtml/</link>
+		<comments>http://tutsmais.com.br/blog/dom4/como-inserir-elementos-html-com-javascript-ou-como-usar-insertadjacenthtml/#comments</comments>
+		<pubDate>Wed, 15 Jan 2014 00:39:29 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[DOM4]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1927</guid>
+		<description><![CDATA[<p>Quando eu comecei a aprender JavaScript, aprendi a usar a propriedade innerHTML, usando innerHTML é muito fácil colocar elementos no DOM, porém é complicado de usar por exemplo quando você quer colocar um elemento no final de um elemento, ou &#8230; <a href="http://tutsmais.com.br/blog/dom4/como-inserir-elementos-html-com-javascript-ou-como-usar-insertadjacenthtml/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/dom4/como-inserir-elementos-html-com-javascript-ou-como-usar-insertadjacenthtml/">Como inserir elementos no HTML com JavaScript</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Quando eu comecei a aprender JavaScript, aprendi a usar a <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element.innerHTML" target="_blank">propriedade innerHTML</a>, usando innerHTML é muito fácil colocar elementos no DOM, porém é complicado de usar por exemplo quando você quer colocar um elemento no final de um elemento, ou no inicio. Neste post vou mostrar como inserir elementos no DOM usando innerHTML, insertBefore e insertAdjacentHTML fazendo um <a href="http://api.jquery.com/prepend/" target="_blank">prepend</a> como exemplo <span id="more-1927"></span></p>
+<h2>HTML para os exemplos</h2>
+<p>Nos exemplos deste post, vou usar apenas este HTML como exemplo:</p>
+<pre class="brush: xml; title: ; notranslate">
+    &lt;div class=&quot;wrapper&quot;&gt;Conteúdo&lt;/div&gt;
+</pre>
+<h2>Usando innerHTML</h2>
+<p>Vou exemplificar como fazer um prepend com innerHTML, o prepend significa coloca HTML antes de todo o conteúdo de um elemento.</p>
+<pre class="brush: jscript; title: ; notranslate">
+var $wrapper = document.querySelector('.wrapper'),
+    // Pega a string do conteúdo atual
+    HTMLTemporario = $wrapper.innerHTML,
+    // Novo HTML que será inserido
+    HTMLNovo = 'Teste prepend com innerHTML &lt;/br&gt;';
+
+// Concatena as strings colocando o novoHTML antes do HTMLTemporario
+HTMLTemporario = HTMLNovo + HTMLTemporario;
+
+// Coloca a nova string(que é o HTML) no DOM
+$wrapper.innerHTML = HTMLTemporario;
+</pre>
+<p>Vejo um <a href="http://codepen.io/felquis/pen/Iupin" target="_blank">demo no codepen</a></p>
+<p>Isso funciona bem, porém tem algumas observações de segurança e/ou do innerHTML retornar algo que você não espera, por exemplo você esperar um &lt; e ele retornar um &amp;lt. No <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element.innerHTML" target="_blank">MDN</a> você tem mais informações sobre isso.</p>
+<h2>Usando DOM Node API</h2>
+<p>Node API, é uma interface com vários métodos para manipularmos o DOM da &#8220;maneira correta&#8221;, isso porque o innerHTML não faz parte da especificação, inserir elementos no DOM usando a Node API pode ser um pouco complicado (pelo menos para mim) porque tem muitos métodos e propriedades, porém é algo muito mais completo do que o innerHTML</p>
+<p>O DOM API é complexa, porque é grande, tem vários métodos e propriedades, e pode ser que seja difícil aprender por causa dessa variedade de nomes complicados, além de ser complicado se encontrar no meio das APIs do DOM, porque o DOM por si só, é uma representação de um documento(HTML), e ele tem vários métodos para você manipula-lo, e estes métodos e propriedades são divididos em algumas APIs, por exemplo tem Comment API para comentários no DOM, temos uma Node API para Node e uma Element API (que parece que é a mesma coisa que um Node, mas não é), temos uma Event API, EventTarget API, temos API para NodeList e muitas outras.</p>
+<p>Pelo menos eu, optei por um aprendizado &#8220;orgânico&#8221;, isso é, eu apenas dei uma passada em todo o conteúdo da MDN afim de ao menos ter uma pequena noção do que existe, e conforme vou precisando de algo, eu vou aprendendo, porque se eu ler tudo de uma vez só, provavelmente no próximo dia já não vou mais lembrar de nada, então esse aprendizado orgânico, que é sob demanda, eu considero melhor para o meu caso.</p>
+<p>Para seguir o exemplo do prepend que fiz com innerHTML, usei o método insertBefore, e as propriedade firstChild e lastChild do Node API</p>
+<pre class="brush: jscript; title: ; notranslate">
+// Seleciona o elemento no DOM
+var $wrapper = document.querySelector('.wrapper'),
+
+    // Seleciona o primeiro Node filho do elemento
+    firstChild = $wrapper.firstChild,
+
+    // Cria uma string de texto
+    HTMLNovo = document.createTextNode('Inserido usando DOM API'),
+
+    // Cria um Node de um BR
+    HTMLBr = document.createElement('br');
+
+// Insere o texto antes do primeiro Node do elemento
+$wrapper.insertBefore(HTMLNovo, firstChild);
+
+// Insere o BR, antes do ultimo node do elemento
+$wrapper.insertBefore(HTMLBr, $wrapper.lastChild);
+</pre>
+<p>Vejo um <a href="http://codepen.io/felquis/pen/EHgzL" target="_blank">demo no codepen</a></p>
+<p>A parte chata de usar Node API, é que você tem que criar os elementos e isso pode se transformar em uma tarefa chata, veja que eu tenho que criar o node BR para coloca-lo no DOM, isso da muito trabalho.</p>
+<p>Repare que para inserir o br, depois do primeiro node que agora é a HTMLNovo, e antes do texto antigo, eu uso o lastChild, o que pode ser um sério problema, imagina um caso em que aquele não fosse o ultimo Node, isto complicaria.</p>
+<p>Podemos criar uma versão melhor disso usando DocumentFragment:</p>
+<pre class="brush: jscript; title: ; notranslate">
+// Seleciona o elemento no DOM
+var $wrapper = document.querySelector('.wrapper'),
+
+    // Cria uma string de texto
+    HTMLNovo = document.createTextNode('Inserido usando DOM API'),
+
+    // Cria um &quot;fragmento de documento&quot; oO
+    fragment = new DocumentFragment();
+
+// Insere no fragmento o novo texto
+fragment.appendChild(HTMLNovo);
+
+// Insere no documento o br
+fragment.appendChild(document.createElement('br'));
+
+// Insere o fragmento antes do conteúdo atual do elemento
+$wrapper.insertBefore(fragment, $wrapper.firstChild);
+</pre>
+<p>Vejo um <a href="http://codepen.io/felquis/pen/royti" target="_blank">demo no codepen</a></p>
+<p>Basicamente, no DocumentFragment, é como se tivéssemos um mini document, apenas para trabalharmos ali, naquele momento, e a qualquer momento podemos coloca-lo no DOM.</p>
+<p>Porém criar o elemento BR, continua sendo algo meio estranho/&#8217;chatiante&#8217; não acha?, por que diabos eu tenho que criar um node br? Seria mais simples com innerHTML, seria ótimo se pudéssemos adicionar elementos a um DocumentFragment com innerHTML, porém por algum motivo que eu não conheço, não temos como usar o innerHTML (provavelmente porque o innerHTML não ESTAVA especificiação, <a href="http://www.w3.org/TR/2013/WD-DOM-Parsing-20131210/#widl-Element-innerHTML" target="_blank">mas ele foi adicionado a especificação</a>) em um DocumentFragment, então não temos como mesclar o melhor dos dois mundos, a facilidades do innerHTML, e a precisão do insertBefore, appendendChild.</p>
+<h2>Usando insertAdjacentHTML</h2>
+<p>Falando sobre a combinação de innerHTML e Node API, o método insertAdjacentHTML, é o que une o melhor das duas formas de inserir elementos no DOM, porque nele você pode passar uma string que representa um HTML, e você não precisa fazer a &#8216;gambiarra&#8217; para fazer um prepend como foi feito com innerHTML no primeiro exemplo, olha como que fica nosso prepend com este insertAdjacentHTML:</p>
+<pre class="brush: jscript; title: ; notranslate">
+// Seleciona o elemento no DOM
+var $wrapper = document.querySelector('.wrapper'),
+
+    // String de texto
+    HTMLNovo = 'Inserido usando DOM API &lt;br&gt;';
+
+// Insere o texto antes do conteúdo atual do elemento
+$wrapper.insertAdjacentHTML('afterbegin', HTMLNovo);
+</pre>
+<p>Vejo um <a href="http://codepen.io/felquis/pen/uAzxs" target="_blank">demo no codepen</a></p>
+<p>O método insertAdjacentHTML, recebe dois parâmetros, são eles:</p>
+<h3>Primeiro parâmetro, position</h3>
+<p>O primeiro parâmetro indica onde o método deve colocar o HTML com relação ao elemento atual, tem quatro valores que você pode passar aqui.</p>
+<p><strong>beforebegin</strong>: Insere o HTML antes do elemento<br />
+<strong>afterend</strong>: Insere o HTML depois do elemento<br />
+<strong>afterbegin</strong>: Insere o HTML depois do inicio do elemento, antes do inicio de qualquer conteúdo do elemento<br />
+<strong>beforeend</strong>: Insere o HTML antes do fim do elemento, depois de qualquer conteúdo dentro do elemento</p>
+<p>Caso minha explicação tenha ficado complicada de entender, fiz uma ilustração para ajudar, o quadrado cinza é o elemento, e onde está os textos azuis, é onde o método adiciona o HTML com aqueles nomes.<br />
+<img src="http://tutsmais.com.br/blog/wp-content/uploads/2014/01/insertadjacenthtml-position.png" alt="insertadjacenthtml-position" width="295" height="243" class="aligncenter size-full wp-image-1933" /></p>
+<h3>Segundo parâmetro, content</h3>
+<p>Este é o parâmetro que você passa a string que será adicionada ao HTML, simples assim.</p>
+<p><strong>Nota:</strong> Antigamente, apenas o IE tinha este método implementado, não existia uma especificação dele, assim como o innerHTML, só agora é que estão sendo padronizados.</p>
+<h2>Suporte de browsers</h2>
+<p>O método insertAdjacentHTML, é suportado por todos os browsers modernos(<a href="https://developer.mozilla.org/en-US/docs/Web/API/Element.insertAdjacentHTML" target="_blank">referência MDN</a>), incluindo versões antigas do IE, até IE6, e uma boa notícia é que este método foi adicionado à especificação <a href="http://www.w3.org/TR/2013/WD-DOM-Parsing-20131210/#widl-Element-insertAdjacentHTML-void-DOMString-position-DOMString-text" target="_blank">DOM Parsing and Serialization</a>, o que indica que talvez, logo se torne uma padrão.</p>
+<p>Já para mobile, no MDN não tem informação, apenas diz que o Firefox Mobile suporta mas não diz dos outros, acredito eu que tem um bom suporte dos browsers mobile (se você conhecer uma boa fonte sobre isso, compartilhe comigo nos comentários).</p>
+<h2>Problemas ao usar o insertAdjacentHTML</h2>
+<p>No post de <a href="http://ejohn.org/blog/dom-insertadjacenthtml/" target="_blank">John Resig</a>, ele falou sobre este método e de alguns testes que ele fez com este método. No post ele diz que este método não funciona com todos os elementos no IE6, tendo problemas especificamente com table, tbody, thead, e tr. E que não funciona com XML (mas, eu espero que você não tenha que desenvolver para o IE6 hoje em dia, nem para o IE7).</p>
+<h2>Curiosidade</h2>
+<p>Por incrível que pareça, a primeira aparição do termo insertAdjacentHTML com referência nos resultados do Google, foi de um cara em 15/01/2000 passando um código do tipo &#8220;copia e cola&#8221;, em que o insertAdjacentHTML está no meio do código rsrs, achei engraçado por que hoje quando publico este post faz exatamente 14 anos. (<a href="http://www.guacira-br.com/carouselcod.htm" target="_blank">URL do site</a>, (URL do site no <a href="http://web.archive.org/web/20020829121505/http://www.guacira-br.com/carouselcod.htm" target="_blank">Web Archive</a>)</p>
+<h2>Links de referência</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element.innerHTML" target="_blank">MDN, Element.innerHTML</a></li>
+<li><a href="http://msdn.microsoft.com/en-us/library/ms536452.aspx" target="_blank">MSDN, insertAdjacentHTML method</a></li>
+<li><a href="http://ejohn.org/blog/dom-insertadjacenthtml/" target="_blank">John Resig, DOM insertAdjacentHTML</a></li>
+<li><a href="http://www.bymichaellancaster.com/blog/DOM-insert-html-method-you-might-not-know-about/" target="_blank">Michael Lancaster, DOM insert HTML method you might not know</a></li>
+<li><a href="http://domparsing.spec.whatwg.org/#insertadjacenthtml()" target="_blank"></a>insertAdjacentHTML Spec</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Node" target="_blank">DOM Node API</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference">MDN, Referência ao DOM</a></li>
+<li><a href="http://docs.webplatform.org/wiki/dom" target="_blank">Web Platform, DOM</a></li>
+<li><a href="http://www.w3.org/TR/domcore/#interface-node">Especificação DOM, Interface Node</a></li>
+<li><a href="http://www.w3.org/TR/2013/WD-DOM-Parsing-20131210/#widl-Element-insertAdjacentHTML-void-DOMString-position-DOMString-text" target="_blank">DOM Parsing and Serialization, insertAdjacentHTML</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Element.insertAdjacentHTML" target="_blank">MDN, Element.insertAdjacentHTML</a></li>
+</ul>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/dom4/como-inserir-elementos-html-com-javascript-ou-como-usar-insertadjacenthtml/">Como inserir elementos no HTML com JavaScript</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/dom4/como-inserir-elementos-html-com-javascript-ou-como-usar-insertadjacenthtml/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Estilizando elementos com base no idioma</title>
+		<link>http://tutsmais.com.br/blog/css/estilizando-elementos-com-base-no-idioma/</link>
+		<comments>http://tutsmais.com.br/blog/css/estilizando-elementos-com-base-no-idioma/#comments</comments>
+		<pubDate>Wed, 08 Jan 2014 14:45:15 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[css]]></category>
+		<category><![CDATA[idioma]]></category>
+		<category><![CDATA[lang]]></category>
+		<category><![CDATA[language]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1922</guid>
+		<description><![CDATA[<p>Em algumas circunstâncias, pode ser útil estilizar um elemento, em que o idioma é inglês, chinês ou qualquer outro idioma, neste post vamos ver como fazer isso. Para este tutorial, vamos assumir este HTML como exemplo: Antes de mostrar como &#8230; <a href="http://tutsmais.com.br/blog/css/estilizando-elementos-com-base-no-idioma/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/css/estilizando-elementos-com-base-no-idioma/">Estilizando elementos com base no idioma</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Em algumas circunstâncias, pode ser útil estilizar um elemento, em que o idioma é inglês, chinês ou qualquer outro idioma, neste post vamos ver como fazer isso.<span id="more-1922"></span></p>
+<p>Para este tutorial, vamos assumir este HTML como exemplo:</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;!doctype html&gt;
+&lt;html lang=&quot;ca&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;utf-8&quot;&gt;
+  &lt;title&gt;Salut! Txin txin!&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;No n'hi ha prou amb una llengua&lt;/p&gt;
+  &lt;article lang=&quot;en&quot;&gt;
+    &lt;h1&gt;Phrase of the day&lt;/h1&gt;
+    &lt;p&gt;When the going gets tough, the tough get going&lt;/p&gt;
+  &lt;/article&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+<p>Antes de mostrar como estilizar os elementos, vamos dar uma olhada na função do atributo lang.</p>
+<p>O atributo lang especifica o idioma de dos textos contidos nos atributos do elemento, e no conteúdo do elemento. O valor padrão do atributo lang é &#8220;unknown&#8221;</p>
+<p>Existe uma <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">lista de códigos de idiomas no ISO 639</a>, que é a melhor referência que você pode ter de valores válidos para o atributo lang.</p>
+<p>Também é bastante recomendado o uso do atributo lang no elemento &lt;/ html&gt; (e em outros elementos também claro) para auxiliar ferramentas de leitor de tela, e robôs de busca a saberem, de que idioma se trata o conteúdo.</p>
+<h2>Primeira forma de estilizar elementos com base no idioma</h2>
+<p>É uma opção, usar <a href="http://www.w3.org/TR/css3-selectors/#attribute-representation" target="_blank">seletor de atributos</a>, do CSS2 para fazer essa tarefa, o CSS2 é <a href="http://caniuse.com/#feat=css-sel2" target="_blank">completamente suportado</a> nos browsers:</p>
+<pre class="brush: css; title: ; notranslate">
+[lang=&quot;ca&quot;] p {
+  background-color: yellow;
+  color: red;
+}
+</pre>
+<p>O problema, é que todos os parágrafos, terão color: red, inclusive o parágrafo que está dentro da tag &lt;article lang=&quot;en&quot;&gt;</p>
+<h2>A solução definitiva</h2>
+<p>O que realmente soluciona nossa necessidade, é o <a href="http://www.w3.org/wiki/CSS/Selectors/pseudo-classes/:lang" target="_blank">pseudo-classe :lang</a>, que ainda é pouco conhecido entre os desenvolvedores, ficando assim:</p>
+<pre class="brush: css; title: ; notranslate">
+p:lang(ca) {
+  background-color: yellow;
+  color: red;
+}
+</pre>
+<p>Este seletor, irá selecionar apenas os elementos que estão no idioma referente ao &#8220;ca&#8221;, o atributo lang tem que ter o valor, a vantagem é que esse seletor, não irá selecionar também os elementos que estão em contextos de outros idiomas, como no exemplo acima.</p>
+<h2>Suporte de browsers</h2>
+<p>Com referência na <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/:lang" target="_blank">MDN</a>, este pseudo-classe funciona no IE8+, Firefox 1.0+, Chrome 1.0+, Opera 8.0+ e Safari 3.1+ e para mobile Android 1.0+, Firefox Mobile 1.0+, IE Mobile 8.0+, Safari Mobile 3.1+</p>
+<p>E com referência no <a href="http://caniuse.com/#feat=css-sel3" target="_blank">Can I Use</a>, o CSS Selectors Level 3 funciona em todos os browsers, ficando para trás apenas o IE8</p>
+<h2>Links citados e referências</h2>
+<ul>
+<li><a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">lista de códigos de idiomas no ISO 639</a></li>
+<li><a href="http://dev.w3.org/csswg/selectors3/#lang-pseudo" target="_blank">CSS, Seletores nível 3 :lang</a></li>
+<li><a href="http://www.w3.org/TR/CSS2/selector.html#lang" target="_blank">CSS, Seletores nível 2 :lang</a></li>
+<li><a href="http://caniuse.com/#feat=css-sel2" target="_blank">CSS Selectors Level 2 Browser Support</a></li>
+<li><a href="http://caniuse.com/#feat=css-sel3" target="_blank">CSS Selectors Level 3 Browser Support</a></li>
+<li><a href="http://sergeylukin.com/2013/styling-html-elements-based-on-locale/" target="_blank">Styling HTML elements based on locale</a></li>
+</ul>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/css/estilizando-elementos-com-base-no-idioma/">Estilizando elementos com base no idioma</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/css/estilizando-elementos-com-base-no-idioma/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Como desativar os efeitos de hover durando scroll</title>
+		<link>http://tutsmais.com.br/blog/css/como-desativar-os-efeitos-de-hover-durando-scroll/</link>
+		<comments>http://tutsmais.com.br/blog/css/como-desativar-os-efeitos-de-hover-durando-scroll/#comments</comments>
+		<pubDate>Sun, 01 Dec 2013 02:56:21 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[css]]></category>
+		<category><![CDATA[Dicas]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1908</guid>
+		<description><![CDATA[<p>Enquanto um usuário faz scroll em uma página, é disparado vários hovers em vários elementos e dependendo do efeito aplicado no :hover desses elementos podemos ter um problema de performance. Para solucionar isso Ryan Seddon postou no blog The CSS &#8230; <a href="http://tutsmais.com.br/blog/css/como-desativar-os-efeitos-de-hover-durando-scroll/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/css/como-desativar-os-efeitos-de-hover-durando-scroll/">Como desativar os efeitos de hover durando scroll</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Enquanto um usuário faz scroll em uma página, é disparado vários hovers em vários elementos e dependendo do efeito aplicado no :hover desses elementos podemos ter um problema de performance.</p>
+<p>Para solucionar isso <a href="https://twitter.com/ryanseddon" target="_blank">Ryan Seddon</a> <a href="http://www.thecssninja.com/javascript/pointer-events-60fps" target="_blank">postou no blog The CSS Ninja</a> uma dica muito boa usando pointer-events que basicamente é durante o scroll setar para todos os elementos com hover a propriedade <em>pointer-events: none</em>, como no exemplo:</p>
+<pre class="brush: css; title: ; notranslate">
+.element {
+    pointer-events: none;
+}
+</pre>
+<p>Quando a propriedade pointer-events é setada para none, qualquer interação com o elemento é desabilitado (clicks, hovers), como se o elemento não existisse ou como se o elemento fosse &#8220;intocável&#8221;.</p>
+<p>O problema que Ryan solucionou é que durante o scroll, o browser pode alcançar valores exorbitantes de frames por segundo(fps) como podemos observar nesse print:<br />
+<a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/12/scroll-60fps.png"><img src="http://tutsmais.com.br/blog/wp-content/uploads/2013/12/scroll-60fps.png" alt="scroll-60fps" width="612" height="116" class="aligncenter size-full wp-image-1909" /></a></p>
+<p>Usando pointer-events conseguimos simplesmente duas vezes mais performance durante o scroll, como podemos observar no print abaixo:<br />
+<a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/12/scroll-60fps-depois.png"><img src="http://tutsmais.com.br/blog/wp-content/uploads/2013/12/scroll-60fps-depois.png" alt="scroll-60fps-depois" width="613" height="117" class="aligncenter size-full wp-image-1910" /></a></p>
+<p>Para termos este resultado precisamos apenas deste snippet de JS:</p>
+<pre class="brush: jscript; title: ; notranslate">
+var body = document.body,
+    timer;
+
+window.addEventListener('scroll', function() {
+  clearTimeout(timer);
+  if(!body.classList.contains('disable-hover')) {
+    body.classList.add('disable-hover')
+  }
+  
+  timer = setTimeout(function(){
+    body.classList.remove('disable-hover')
+  },500);
+}, false);
+</pre>
+<p>Que tudo o que faz é adicionar a class <em>.disable-hover</em> na tag body sempre que o usuário começar a fazer scroll, note que é usado um workaround com setTimeout para tentar descobrir quando o scroll parar.</p>
+<p>Também precisamos definir a classe no CSS:</p>
+<pre class="brush: css; title: ; notranslate">
+.disable-hover,
+.disable-hover * {
+  pointer-events: none !important;
+}
+</pre>
+<p>É usado * por que se qualquer elemento filho tiver com <em>pointer-events: auto</em> este elemento aceitara clicks e hovers e como neste caso não é isso que queremos, sobrescrevemos tudo com !important</p>
+<p>Para ver esta dica funcionando você pode <a href="http://jsbin.com/oNiVUYe/5/quiet" target="_blank">acessar o demo criado por Ryan</a> ou assistir o screencast que ele fez<br />
+<iframe width="560" height="315" src="//www.youtube.com/embed/IyHb0SJms6w" frameborder="0" allowfullscreen></iframe></p>
+<p>É isso.</p>
+<p>Links:<br />
+<a href="http://css-tricks.com/almanac/properties/p/pointer-events/" target="_blank">CSS Tricks</a><br />
+<a href="http://caniuse.com/pointer-events" target="_blank">Can I Use</a><br />
+<a href="http://www.thecssninja.com/javascript/pointer-events-60fps" target="_blank">The CSS Ninja</a><br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events" target="_blank">MDN</a></p>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/css/como-desativar-os-efeitos-de-hover-durando-scroll/">Como desativar os efeitos de hover durando scroll</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/css/como-desativar-os-efeitos-de-hover-durando-scroll/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Novidades no IE11</title>
+		<link>http://tutsmais.com.br/blog/browsers/novidades-no-ie11-disponivel-para-donwload/</link>
+		<comments>http://tutsmais.com.br/blog/browsers/novidades-no-ie11-disponivel-para-donwload/#comments</comments>
+		<pubDate>Thu, 21 Nov 2013 14:35:16 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[browsers]]></category>
+		<category><![CDATA[browser]]></category>
+		<category><![CDATA[IE]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1890</guid>
+		<description><![CDATA[<p>No IEBlog saiu um post que eu devo compartilhar. Onde diz que o IE11 esta disponível para download para Windows 7 e coisa e tal. E neste post vou falar de algumas novidades citadas no post O que me chamou &#8230; <a href="http://tutsmais.com.br/blog/browsers/novidades-no-ie11-disponivel-para-donwload/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/browsers/novidades-no-ie11-disponivel-para-donwload/">Novidades no IE11</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/11/ie11-download.png"><img src="http://tutsmais.com.br/blog/wp-content/uploads/2013/11/ie11-download-150x150.png" alt="ie11-download" width="150" height="150" class="alignleft size-thumbnail wp-image-1903" /></a> No IEBlog saiu um <a href="http://blogs.msdn.com/b/ie/archive/2013/11/07/ie11-for-windows-7-globally-available-for-consumers-and-businesses.aspx" target="_blank">post </a>que eu devo compartilhar. Onde diz que o IE11 esta <a href="http://windows.microsoft.com/pt-br/internet-explorer/download-ie" target="_blank">disponível para download</a> para Windows 7 e coisa e tal. E neste post vou falar de algumas novidades citadas no post <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /> <span id="more-1890"></span></p>
+<p>O que me chamou atenção é que eles dizem o tempo todo &#8220;O IE11 é mais rápido para sites do mundo real(real world web sites)&#8221; não sei o que eles querem dizer com sites do mundo real :p Mas a propaganda que fazem no post é muito boa.</p>
+<p>Segundo o post, o IE11 é 9% mais rápido que o IE10 e quase 30% mais rápido que os browsers concorrentes atuais como Chrome 30, Firefox 25, Opera 17&#8230; Quero ver isso na pratica :p<br />
+<a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/11/2870.ifwgafcab-image2_760x478.png" target="_blank"><br />
+<img src="http://tutsmais.com.br/blog/wp-content/uploads/2013/11/2870.ifwgafcab-image2_760x478.png" alt="Reprodução do IEBlog" width="590" style="width: 590px" class="size-full wp-image-1891" /><br />
+</a> <small><i>Reprodução do IEBlog</i></small></p>
+<p>Entre as principais atualizações, na minha opinião uma muito importante no IE11 é o novo DevTools, que no IE eles chamam de &#8220;F12 Tools&#8221; ou só F12, que realmente vai melhorar de mais do que a versão que temos no IE10, 9 e 8 que é de chorar. Para saber mais sobre este novo F12, de uma olhada neste post <a href="http://blogs.msdn.com/b/ie/archive/2013/07/29/debugging-and-tuning-web-sites-and-apps-with-f12-developer-tools-in-ie11.aspx" target="_blank">Debugging and Tuning Web Sites and Apps with F12 Developer Tools in IE11</a></p>
+<p>E outras 25 novas features ou features melhoradas, sendo elas:</p>
+<ul>
+<li><a target="_blank" href="http://www.w3.org/TR/css3-background/">CSS3 Background and Borders Module Level 3</a></li>
+<li><a target="_blank" href="http://w3c-test.org/webperf/specs/HighResolutionTime/">Performance: High Resolution Time</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/css3-flexbox/">CSS3 Flexbox</a></li>
+<li><a target="_blank" href="http://w3c-test.org/webperf/specs/NavigationTiming2/">Performance: Navigation Timing L2</a></li>
+<li><a target="_blank" href="http://dev.w3.org/csswg/css-snappoints/">CSS Snap Points Module 1</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/css3-grid/">Performance: Performance Timeline</a></li>
+<li><a target="_blank" href="http://dev.w3.org/csswg/css-writing-modes/">CSS Writing Modes Module Level 3</a></li>
+<li><a target="_blank" href="https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html">Performance: Resource Priorities</a></li>
+<li><a target="_blank" href="http://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript5</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/resource-timing/">Performance: Resource Timing</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/html5/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes">HTML5 Dataset</a></li>
+<li><a target="_blank" href="http://w3c-test.org/webperf/specs/RequestAnimationFrame/">Performance: Script-Based Timing Control</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/2010/WD-html5-20101019/dnd.html">HTML5 Drag and Drop</a></li>
+<li><a target="_blank" href="http://w3c-test.org/webperf/specs/UserTiming/">Performance: User Timing</a></li>
+<li><a target="_blank" href="http://dev.w3.org/geo/api/spec-source-orientation.html">HTML5 Device Orientation API</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/pointerevents/">Pointer Events</a></li>
+<li><a target="_blank" href="https://dvcs.w3.org/hg/html-media/raw-file/tip/encrypted-media/encrypted-media.html">HTML5 Encrypted Media Extensions</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/2013/WD-ttml10-sdp-us-20130103/">Simple Delivery Profile for Closed Captions (US)</a></li>
+<li><a target="_blank" href="https://dvcs.w3.org/hg/html-media/raw-file/tip/media-source/media-source.html">HTML5 Media Source Extensions</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/tracking-dnt/">Tracking Preference Expression (DNT)</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/screen-orientation/">HTML5 Screen Orientation API</a></li>
+<li><a target="_blank" href="http://www.w3.org/TR/WebCryptoAPI/">Web Crypto API</a></li>
+<li><a target="_blank" href="http://w3c-test.org/webperf/specs/setImmediate/">Performance: Efficient Script Yielding</a></li>
+<li><a target="_blank" href="http://www.khronos.org/webgl/">WebGL</a></li>
+<li><a target="_blank" href="http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts">__proto__ (ES6 draft spec)</a></li>
+</ul>
+<p>No blog não informa o nível compatibilidade com essas features, apenas diz que essas foram adicionadas e/ou melhoras que tem no browser.</p>
+<p>Algo que eles dão destaque, que as intranets e sistemas legados vão funcionar perfeitamente no IE11 desde que estes usem o <a href="http://msdn.microsoft.com/en-us/library/jj676915(v=vs.85).ASPX">Compatibility View</a></p>
+<p>Outra coisa maneira que descobri neste post é o <a href="http://ie.microsoft.com/testdrive/">Internet Explorer Test Drive</a> onde tem uma coleção de experimentos que procura mostrar todo o poder do IE.</p>
+<p>Bom, espero que o IE realmente evolua assim como seu marketing diz desde a versão 9, e que as atualizações automáticas não venham a nos prender no passado assim como essa maldição que foi o IE6, 7, 8</p>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/browsers/novidades-no-ie11-disponivel-para-donwload/">Novidades no IE11</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/browsers/novidades-no-ie11-disponivel-para-donwload/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>O atributo classList</title>
+		<link>http://tutsmais.com.br/blog/dom4/o-atributo-classlist/</link>
+		<comments>http://tutsmais.com.br/blog/dom4/o-atributo-classlist/#comments</comments>
+		<pubDate>Sun, 18 Aug 2013 21:23:10 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[DOM4]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1844</guid>
+		<description><![CDATA[<p>classList é um novo atributo da especificação do DOM4 que nos da o poder de manipular as classes de um elemento de uma forma muito mais elegante do que nos últimos tempos. Adicionar/remover ou verificar se uma classe existe a &#8230; <a href="http://tutsmais.com.br/blog/dom4/o-atributo-classlist/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/dom4/o-atributo-classlist/">O atributo classList</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>classList é um novo atributo da especificação do DOM4 que nos da o poder de manipular as classes de um elemento de uma forma muito mais elegante do que nos últimos tempos.  Adicionar/remover ou verificar se uma classe existe a partir de agora, se torna a tarefa mais fácil do seu dia-a-dia programando em JavaScript <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /><br />
+<span id="more-1844"></span></p>
+<h2>O que é o atributo classList?</h2>
+<p>Na <a href="http://www.w3.org/TR/dom/">especificação do DOM4</a> o <a href="http://www.w3.org/TR/dom/#dom-element-classlist">atributo classList</a> retorna o <a href="http://www.w3.org/TR/dom/#interface-domtokenlist">DOMTokenList</a> do conteúdo do <a href="http://www.w3.org/TR/dom/#dom-element-classname">atributo className</a>, que por sua vez reflete o que esta no atributo class do nó em questão.</p>
+<h2>O que é a DOMTokenList API?</h2>
+<p>O DOMTokenList é uma representação de uma string com palavras separadas por espaços. Onde cada palavra(classe) é um Token.</p>
+<p>Para entendermos melhor o que é um Token. Um Token é um pedaço de toda a string ou se preferir um token representa uma classe.</p>
+<p>Veja o exemplo</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;div class=&quot;classe1 classe2 classe3&quot;&gt;&lt;/div&gt;
+</pre>
+<p>Na sequencia de classes &#8220;classe1 classe2 classe3&#8243; cada classe é um token delimitado pelo espaço.</p>
+<p>Uma DOMToken List é case-sensitive, ou seja, classe1 é considerada um Token, e Classe1 é considerada outro Token.</p>
+<h2>Métodos do DOMTokenList API</h2>
+<h3>tokenList<a href="http://www.w3.org/TR/dom/#dom-domtokenlist-add">.add</a>(&#8216;nome-classe&#8217;, &#8216;outra-classe&#8217;)</h3>
+<p>Adiciona todos os argumentos passados como uma nova classe, exceto as classes que já existem.</p>
+<p>Se você usar tokenList.add(&#8221;) ele lança um <a href="http://www.w3.org/TR/dom/#syntaxerror">erro de Sintaxe</a>.</p>
+<p>Se você usar tokenList.add(&#8216;classe1 classe2&#8242;) ele lança um <a href="http://www.w3.org/TR/dom/#invalidcharactererror">erro de caractere inválido</a> </p>
+<p>Exemplo:</p>
+<pre class="brush: jscript; title: ; notranslate">
+document.body.classList.add('modern', 'tutsmais');
+</pre>
+<p>Neste exemplo adicionamos a classe &#8216;modern&#8217; e &#8216;tutsmais&#8217; a tag body.</p>
+<h3>tokenList.<a href="http://www.w3.org/TR/dom/#dom-domtokenlist-remove">remove</a>(&#8216;nome-classe&#8217;, &#8216;outra-classe&#8217;)</h3>
+<p>Remove as classes correspondentes aos argumentos passados.</p>
+<p>Se você usar tokenList.remove(&#8221;) ele lança um <a href="http://www.w3.org/TR/dom/#syntaxerror">erro de Sintaxe</a>.</p>
+<p>Se você usar tokenList.remove(&#8216;classe1 classe2&#8242;) ele lança um <a href="http://www.w3.org/TR/dom/#invalidcharactererror">erro de caractere inválido</a> </p>
+<p>Exemplo:</p>
+<pre class="brush: jscript; title: ; notranslate">
+document.body.classList.remove('modern');
+</pre>
+<p>Neste exemplo removemos a classe &#8216;modern&#8217; a tag body.</p>
+<h3>tokenList.<a href="http://www.w3.org/TR/dom/#dom-domtokenlist-toggle">toggle</a>(&#8216;classe1&#8242;, force)</h3>
+<p>Este método adicionar uma classe se ela não existir, e se ela existe ele a retira. E retorna true se a classe foi adicionada e false se a classe foi retirada.</p>
+<p>O segundo parâmetro opcional é o parâmetro force. Se você passar true, o método toggle se comporta como o método add, e se você passar false ele se comporta como o método remove.</p>
+<p>Se você usar tokenList.toggle(&#8221;) ele lança um <a href="http://www.w3.org/TR/dom/#syntaxerror">erro de Sintaxe</a>.</p>
+<p>Se você usar tokenList.toggle(&#8216;classe1 classe2&#8242;) ele lança um <a href="http://www.w3.org/TR/dom/#invalidcharactererror">erro de caractere inválido</a> </p>
+<p>Exemplo:</p>
+<pre class="brush: jscript; title: ; notranslate">
+document.body.classList.toggle('modern');
+</pre>
+<p>Neste exemplo caso a tag body não tenha a classe &#8216;modern&#8217;, essa classe será adicionada. Caso a tag body tenha a classe &#8216;modern&#8217;, ela será removida.</p>
+<h3>tokenList.<a href="http://www.w3.org/TR/dom/#dom-domtokenlist-item">item</a>(índice)</h3>
+<p>Retorna a classe correspondente ao índice passado. Ou seja se você passar item(0) ele retornará a primeira classe e se usar item(1) ele retorna a segunda classe. Caso o índice passado seja maior que a quantidade tokens é retornado null</p>
+<p>Exemplo:<br />
+Dado o seguinte HTML</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;body class=&quot;moderntutsmais&quot;&gt;&lt;/body&gt;
+</pre>
+<pre class="brush: jscript; title: ; notranslate">
+var classe = document.body.classList.item(1);
+</pre>
+<p>Neste exemplo pegamos o valor da primeira classe passando o índice 1, agora nossa variável tem valor igual &#8220;tutsmais&#8221;</p>
+<h3>tokenList.<a href="http://www.w3.org/TR/dom/#dom-domtokenlist-contains">contains</a>(&#8216;nome-classe&#8217;)</h3>
+<p>Retorna true se a classe existe e false se a classe não existe.</p>
+<p>Se você usar tokenList.contains(&#8221;) ele lança um <a href="http://www.w3.org/TR/dom/#syntaxerror">erro de Sintaxe</a>.</p>
+<p>Se você usar tokenList.contains(&#8216;classe1 classe2&#8242;) ele lança um <a href="http://www.w3.org/TR/dom/#invalidcharactererror">erro de caractere inválido</a> </p>
+<p>Exemplo:<br />
+Dado o seguinte HTML</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;body class=&quot;modern tutsmais&quot;&gt;&lt;/body&gt;
+</pre>
+<pre class="brush: jscript; title: ; notranslate">
+var hasClass = document.body.classList.contains('tutsmais');
+</pre>
+<p>Neste exemplo a variável hasClass fica com valor true, por que a variável tutsmais esta presente na tag body</p>
+<h3>tokenList.<a href="http://www.w3.org/TR/dom/#dom-domtokenlist-length">length</a></h3>
+<p>Retorna a quantidade de tokens da tokenList</p>
+<p>Exemplo:<br />
+Dado o seguinte HTML</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;body class=&quot;modern tutsmais&quot;&gt;&lt;/body&gt;
+</pre>
+<pre class="brush: jscript; title: ; notranslate">
+var classNumber = document.body.classList.length;
+</pre>
+<p>Neste exemplo a variável classNumber fica com 2 por que temos duas classes na tag body</p>
+<p><strong>Nota sobre toggle:</strong> Um adendo sobre o parâmetro force </p>
+<p>Na versão atual do Chrome e Opera qualquer valor considerado false é aceito ou seja undefined, null, 0, !!&#8221; e qualquer valor considerado true também é aceito.</p>
+<p>No Firefox e no Internet Explorer 10, o parâmetro force é ignorado.</p>
+<p>Neste aspecto acredito que o Firefox e Internet Explorer estão fazendo do jeito certo. Se já temos os métodos add e remove, pra que precisamos do parâmetro force no método toggle? Quem sabe para produzirmos um código mais difícil de entender?</p>
+<h2>Suporte dos browsers</h2>
+<p><a href="http://caniuse.com/classlist">No Can I Use</a> podemos ver que o classList é suportado pelos principais browsers, porém o Internet Explorer até a versão 9 não suporta e infelizmente estes browsers ainda são bastante requisitados. </p>
+<p>Para resolver isso podemos contar com a ajuda <a href="https://github.com/eligrey/classList.js">deste Polyfill</a> que faz uma implementação do classList em qualquer browser que não tem suporte nativo.</p>
+<h2>Referências</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/element.classList">MDN &#8211; element.classList</a></li>
+<li><a href="http://caniuse.com/classlist">Can I Use ClassList</a></li>
+<li><a href="http://docs.webplatform.org/wiki/dom/properties/classList">WebPlatform &#8211; ClassList</a></li>
+<li><a href="http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/">ClassList in Firefox 3.6</a></li>
+<li><a href="http://www.w3.org/TR/dom/">Working Draft DOM4</a></li>
+<li><a href="http://www.whatwg.org/specs/web-apps/2007-10-26/multipage/section-common0.html">WHATWG &#8211; ClassList</a></li>
+<li><a href="http://msdn.microsoft.com/en-us/library/windows/apps/hh465779.aspx">MSDN &#8211; DOMTokenList</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList">MDN &#8211; DOMTokenList</a></li>
+<li><a href="https://www.inkling.com/read/javascript-definitive-guide-david-flanagan-6th/client-side-javascript-reference/domtokenlist">DOMTokenLis Synopsis</a></li>
+<li><a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills#classlist">HTML5 Polyfills</a></li>
+</ul>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/dom4/o-atributo-classlist/">O atributo classList</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/dom4/o-atributo-classlist/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>O estilo do meu CSS</title>
+		<link>http://tutsmais.com.br/blog/css/o-estilo-do-meu-css/</link>
+		<comments>http://tutsmais.com.br/blog/css/o-estilo-do-meu-css/#comments</comments>
+		<pubDate>Tue, 30 Jul 2013 03:10:46 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[css]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1797</guid>
+		<description><![CDATA[<p>Não sei o que você pensa sobre o assunto, mas quando se trata de indentação de código (vamos focar aqui em CSS) eu sou uma pessoa extremamente exigente, nunca pensei que chegaria a este nível de exigência comigo mesmo quanto &#8230; <a href="http://tutsmais.com.br/blog/css/o-estilo-do-meu-css/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/css/o-estilo-do-meu-css/">O estilo do meu CSS</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Não sei o que você pensa sobre o assunto, mas quando se trata de indentação de código (vamos focar aqui em CSS) eu sou uma pessoa extremamente exigente, nunca pensei que chegaria a este nível de exigência comigo mesmo quanto à qualidade do meu código.</p>
+<p>Gostaria de mostrar neste post como eu indento o meu CSS e também algumas outras formas de indentar que eu não concordo. Como isso é muito a minha opinião, eu gostaria muito de também saber a sua opinião sobre o que vou mostrar aqui.<span id="more-1797"></span></p>
+<p>Pra mim um CSS bem indentado define a pessoa em si, algo como &#8220;Mostre-me seu CSS, e te direi quem és&#8221;, tão define as pessoas que no meu mais novo trabalho, que tenho apenas 3 meses, já conheço quem foi que fez um determinado CSS apenas vendo a indentação.</p>
+<h2>Um padrão de indentação e nomenclatura</h2>
+<p>Um padrão de indentação e nomenclatura pra mim é tudo, é a coisa mais linda que existe, é incrível como algumas pessoas se permitem em uma única folha de estilho escrever 3 ou 4 padrões diferente de indentação e nomenclatura, nesses casos que não existe nenhum padrão, eu digo que está sendo usado o padrão cagada.</p>
+<p>O que eu proponho, é que devemos ter a consciência que o CSS que trabalhamos hoje, alguém vai trabalhar nele no futuro. Se fizermos uma merda hoje, no futuro um coitado vai acabar ‘pisando’ nessa merda, e torce pra esse coitado não ser você.<br />
+Por isso acredito ser muito importante adotar um padrão, para tornar mais rápida e fácil a manutenção, compreender mais rápido, se encontrar mais rápido.</p>
+<p>Quando ouvimos a palavra padrão, devemos pensar que algo muito bom está por vir, e não que algo chato está por vir.</p>
+<h2>Trabalhando em equipe</h2>
+<p>Quando se trabalha em uma equipe que não tem um padrão adotado, o que mais acontece é cada um fazer o seu padrão, criando uma desordem total.</p>
+<p>O ideal é que a equipe junta defina qual será o padrão que irá usar e cada um dando seu argumento, determinar qual indentação/nomenclatura será usada.</p>
+<h2>Considerações ao escolher um padrão</h2>
+<p>Você não é o dono da verdade, você tem que ouvir o que seus companheiros têm a dizer, e se os argumentos deles sobre um determinado padrão for melhor que os seus ou se você for a minoria, é sua obrigação se colocar no lugar e concordar. Acredito que a vontade da maioria deve prevalecer.</p>
+<p>É importante ter o bom senso de não definir um padrão de indentação/nomenclatura baseado só na equipe dentro da empresa, novos funcionários virão de todas as partes, então é interessante que você olhe para fora e ver o que os grandes players andam usando pelo mundo. É muito importante não manter o foco totalmente dentro da empresa.</p>
+<h2>Nomenclatura de classes</h2>
+<p>Essa parte eu considero fácil, vejo pessoas escrevendo classes, das mais variadas formas:</p>
+<pre class="brush: css; title: ; notranslate">
+.meuSeletor,
+.meu_seletor,
+.meuseletor,
+.MeuSeletor,
+.meuSeletor-2,
+.meu_Seletor2
+</pre>
+<p>Considero todos esses seletores nomeados de forma errada, o pior de tudo é que ás vezes mais de uma forma de nomear as classes é encontrado no mesmo arquivo CSS, ou seja, além de ter usado um padrão de nomenclatura ruim, não foi empregado nenhum padrão, ou seja, padrão cagada.</p>
+<p>A verdade é que o próprio CSS já impõe um padrão de nomenclatura, que talvez seja um pouco oculto para algumas pessoas.</p>
+<p>Vejamos o padrão de nomenclatura de propriedades do CSS, temos &#8220;font-size&#8221;, &#8220;font-family&#8221;, &#8220;border-right&#8221;&#8230; Várias outras e todas usam como separar de palavras um hífen.</p>
+<p>Então, encontramos o nosso padrão de nomenclatura de classes, tudo em minúsculo e separado por hífen, então o correto seria usar .meu-seletor.</p>
+<h2>Aonde vai a sua chave?</h2>
+<p>Nós aprendemos que palavras separadas por espaço formam frases, setivertudojunto fica difícil de ler, quando usamos uma virgula a próxima palavra deve ter um espaço da virgula, se temos várias ‘coisas’, tem que vir uma de cada vez.</p>
+<p>Eu não consigo entender o porquê não dar um espaço entre o seletor e a abertura da chave, muitos escrevem assim:</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor{
+</pre>
+<p>Sem espaço pra mim, está errado, como se a chave quisesse fazer parte do nome do seletor. Por isso eu escrevo assim:</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor {
+    /* propriedades */
+}
+</pre>
+<p>Temos um espaço ali, agora sim, primeiro vem o seletor [espaço] agora vem à chave. Bem melhor.</p>
+<p>E no meio disso vem as propriedades.</p>
+<h2>Propriedades, uma em cada linha</h2>
+<p>Tem algumas pessoas que escrevem CSS assim</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor{color:red;background:yellow;border:10px solid blue;}
+</pre>
+<p>Eu realmente não sei onde a pessoa esta com a cabeça pra escrever um CSS assim, fica absurdamente complicado encontrar as propriedades, fora que isso vai criar linhas enormes e você vai ter que ficar jogando o scroll horizontal do editor pra lá e pra cá, ou seja totalmente inviável.</p>
+<p>Certa vez perguntei pra uma pessoa por que ele escrevia o CSS tudo em uma linha, e ele respondeu que tinha que ser otimizado, para o arquivo pesar menos. Eu quase tive um ataque. Como uma pessoa não sabe a regra número 1 para trabalhar como Front-end? Que é <a href="http://j.mp/1475lUy" target="_blank">saber usar o Google</a>.</p>
+<p>Então, considero correto colocar cada propriedade em uma linha, ficando assim:</p>
+<pre class="brush: css; title: ; notranslate">
+.meu-seletor {
+    color:red;
+    background:yellow;
+    border:10px solid blue;
+}
+</pre>
+<p>Olha só que coisa linda, usando já os dois primeiros padrões que sugeri acima.</p>
+<p>Muito se fala de como organizar as propriedades, eu não faço muita questão disso, mas organiza-las em ordem alfabética me parece uma boa opção. Caso concorde comigo, provavelmente também concordará que organizar manualmente em ordem alfabética é uma grande perda de tempo, pra isso recomendo um plugin para o Sublime muito bom chamado <a href="http://tutsmais.com.br/blog/sublime-2/melhores-plugins-para-sublime-text-2/#css-comb" target="_blank">CSS Comb</a> que automatiza está organização.</p>
+<h2>Os dois pontos</h2>
+<p>No português sempre vem um espaço depois de vírgula, dois pontos, ponto e vírgula, etc. Agora o porquê no CSS algumas pessoas não dão este espaço eu não sei.<br />
+Segue um exemplo:</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor {
+    color:red;
+    background:yellow;
+    font-size:18px;
+}
+</pre>
+<p>A princípio não tem problema algum com este trecho de CSS, mas continuo a bater na tecla de que “as ideias devem ser separadas”, principalmente para facilitar a leitura. Seria muito melhor se nós déssemos um espaço depois do ponto e vírgula.</p>
+<p>O treco acima indentado ao meu estilo ficaria assim:</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor {
+    color: red;
+    background: yellow;
+    font-size: 18px;
+}
+</pre>
+<p>Outro padrão que eu gosto, porém não prático é o de dar vários espaços para todos os dois pontos ficarem alinhados, dessa forma:</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor {
+    color     : red;
+    background: yellow;
+    font-size : 18px;
+}
+</pre>
+<p>Continua com um espaço depois do ponto e vírgula e o alinhamento (como se fosse colunas) pode tornar ainda mais rápido a leitura e interpretação do código, eu apoio este tipo de indentação, porém eu pessoalmente uso muito mais a minha forma descrita acima.</p>
+<h2>Exceções de indentação</h2>
+<p>Existem dois tipos de exceção de indentação, o primeiro com <strong>referência na quantidade de propriedades</strong> e a segunda é com <strong>referência no tamanho do valor de uma propriedade</strong>.</p>
+<p>Vamos ver um caso de cada vez.</p>
+<h3>Exceção com referência na quantidade de propriedades</h3>
+<p>Separar as propriedades linha a linha é útil para quando temos muitas propriedades, mas quando tempos apenas uma propriedade, indentar em apenas uma linha é super aceitável. Ficando desta forma:</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor { color: red; }
+</pre>
+<p>Mas se tiver mais de uma propriedade, o ideal é que separe as propriedades uma em cada linha.</p>
+<h3>Exceção com referência no tamanho do valor de uma propriedade</h3>
+<p>Quando a propriedade que estamos usando tem um valor muito grande, o ideal seja que a organizemos de forma a melhorar a compreensão, um exemplo de um grande valor de propriedade é:</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor {
+    box-shadow: 10px 10px 10px blue, -10px -10px 10px red, 10px -10px 10px green, -10px 10px 10px yellow;
+}
+</pre>
+<p>Assim fica bem difícil entender o que o código faz, o ideal seria que separássemos dessa forma.</p>
+<pre class="brush: css; title: ; notranslate">
+.seletor {
+    box-shadow: 10px 10px 10px blue,
+                -10px -10px 10px red,
+                10px -10px 10px green,
+                -10px 10px 10px yellow
+}
+</pre>
+<p>Facilitando a compreensão.</p>
+<h2>O ponto e vírgula da última propriedade</h2>
+<p>Retirar o ponto e vírgula da última propriedade é uma forma de perder tempo e deixar o CSS sem um padrão, já tentei fazer isso mas sempre deixava algumas propriedades com o bendito do ponto e vírgula, por que o tempo todo eu ficava mudando as propriedades. Por essa experiência não acho algo interessante tentar retira-lo manualmente.</p>
+<p>Os minificadores de CSS já fazem isso para nós, não precisamos nos preocupar em tirar esse bendito ponto e vírgula.</p>
+<p>Se você usa o Sass, basta configurar o &#8216;output_style&#8217; para &#8216;:compressed&#8217; e pronto.</p>
+<h2>Configuração do meu editor de código</h2>
+<p>Linhas com espaços em branco no final, misturar indentação de espaços com tabs são duas coisas que eu odeio, pra isso eu configuro meu editor para fazer isso pra mim automaticamente.</p>
+<p>Além disso configuração da quantidade de espaços do tab é algo muito importante pra mim, eu sempre deixo com 4.</p>
+<p>Atualmente a configuração do meu sublime é está:</p>
+<pre class="brush: jscript; title: ; notranslate">
+{
+    &quot;font_size&quot;: 13,
+    &quot;ignored_packages&quot;:
+    [
+        &quot;Vintage&quot;
+    ],
+    &quot;draw_indent_guides&quot;: true,
+    &quot;tab_size&quot;: 4,
+    &quot;trim_automatic_white_space&quot;: true,
+    &quot;trim_trailing_white_space_on_save&quot;: true,
+    &quot;detect_indentation&quot;: false,
+    &quot;translate_tabs_to_spaces&quot;: true
+}
+</pre>
+<p>Nota: O &#8220;translate_tabs_to_spaces&#8221; tem que estar por útil para funcionar corretamente.</p>
+<h2>Comentários</h2>
+<p>Comentários é algo que eu não gostaria de abordar aqui, justamente por eu concordar com praticamente tudo que as pessoas usam por ai, mas eu sempre tento seguir o que está descrita na referência <a href="https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR" target="_blank">idiomatic-css</a>(em português)</p>
+<h2>Referências</h2>
+<p><a href="http://www.slideshare.net/bernarddeluna/como-pensar-front-para-wordpress" target="_blank">Slides maneiros do Bernard De Luna</a><br />
+<a href="http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/" target="_blank">Seu código CSS pode ser mais limpo, flexível e reaproveitável</a><br />
+<a href="https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR" target="_blank">idiomatic-css</a>(em português)</p>
+<h2>Conclusão</h2>
+<p>A coisa mais importante que procuro no meu código é diminuir a confusão, muitas vezes a linguagem é confusa por si só, tudo isso que eu disse aqui são coisas que faço com esperança de tornar o código CSS muito mais simples e rápido de compreender.</p>
+<p>O que você achou dessas ideias? Você indenta o código de outra forma? Faça um comentário, eu gostaria de saber como você indenta o seu código CSS <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /> </p>
+<p>Até mais.</p>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/css/o-estilo-do-meu-css/">O estilo do meu CSS</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/css/o-estilo-do-meu-css/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+		<item>
+		<title>Como migrar uma aplicação WordPress de um servidor para outro?</title>
+		<link>http://tutsmais.com.br/blog/wordpress/como-migrar-uma-aplicacao-wordpress-de-um-servidor-para-outro/</link>
+		<comments>http://tutsmais.com.br/blog/wordpress/como-migrar-uma-aplicacao-wordpress-de-um-servidor-para-outro/#comments</comments>
+		<pubDate>Sun, 09 Jun 2013 23:24:49 +0000</pubDate>
+		<dc:creator><![CDATA[Vanessa Me Tonini]]></dc:creator>
+				<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1765</guid>
+		<description><![CDATA[<p>Neste tutorial vamos aprender como fazer parar migrar uma aplicação WordPress para outro servidor. A ideia de escrever este tutorial partiu da necessidade, é claro, quando precisei criar um ambiente de desenvolvimento para um WordPress que só estava em  ambiente &#8230; <a href="http://tutsmais.com.br/blog/wordpress/como-migrar-uma-aplicacao-wordpress-de-um-servidor-para-outro/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/wordpress/como-migrar-uma-aplicacao-wordpress-de-um-servidor-para-outro/">Como migrar uma aplicação WordPress de um servidor para outro?</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/wordpress-logo.jpg"><img alt="wordpress-logo" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/wordpress-logo-300x75.jpg" width="300" height="75" /></a></p>
+<p>Neste tutorial vamos aprender como fazer parar migrar uma aplicação WordPress para outro servidor. A ideia de escrever este tutorial partiu da necessidade, é claro, quando precisei criar um ambiente de desenvolvimento para um WordPress que só estava em  ambiente de produção, e no caso precisei criar um ambiente de desenvolvimento no qual acabou sendo o meu servidor local.</p>
+<p><span id="more-1765"></span></p>
+<p>Para este tutorial vou exemplificar a migração da aplicação a partir um servidor em Produção para um servidor Local, mas o procedimento é praticamente o mesmo caso tenha que migrar entre servidores em produção.</p>
+<p>Ferramentas utilizadas:<br />
+- <a href="http://www.apachefriends.org/pt_br/xampp.html">XAMPP</a><br />
+- <a href="http://www.phpmyadmin.net/home_page/index.php">PhpMyAdmin</a> (do XAMPP)<br />
+- <a href="https://filezilla-project.org/">Filezilla</a><br />
+- Command Prompt</p>
+<h2>1º: Transferência dos arquivos</h2>
+<p>Transfira os arquivos da aplicação do ambiente de produção para o ambiente local, neste caso com o XAMPP, transferi os arquivos direto para o diretório htdocs.</p>
+<p>Para isto eu utilizei o Filezilla e fiz a transferência via FTP.</p>
+<h2>2º: Exportar os dados</h2>
+<p>Acessar o phpMyAdmin do servidor de produção e fazer a exportação do banco de dados:<br />
+- Na lista de bancos de dados à esquerda, clique naquele que você deseja exportar;<br />
+- Depois, acessar a opção do menu superior &#8220;Exportar&#8221;;<br />
+- Mantemos as opções padrões: Método de exportação: &#8220;Rápido&#8221;, Formato: &#8220;SQL&#8221;;<br />
+- Executar.</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-exportar-base.png"><img class="alignnone size-medium wp-image-1772" alt="phpmyadmin-exportar-base" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-exportar-base-300x219.png" width="300" height="219" /></a></p>
+<p>Após isto você vai fazer o download de um arquivo SQL, provavelmente ele vai ir para sua pasta de downloads.</p>
+<h2>3º: Importar os dados</h2>
+<p>Após o download do arquivo SQL exportado pelo phpMyAdmin, vamos utilizar ele e importá-lo no banco de dados do servidor local. Para isto:</p>
+<p>- Acessar o phpMyAdmin do servidor local e criar um novo banco de dados;<br />
+- Na lista de bancos de dados à esquerda, clique naquele que acabou de criar;</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-criar-banco.png"><img class="alignnone size-medium wp-image-1776" alt="phpmyadmin-criar-banco" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-criar-banco-300x219.png" width="300" height="219" /></a><br />
+- Escolha a opção do menu &#8220;Importar&#8221;.</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-importar-sql.png"><img class="alignnone size-medium wp-image-1777" alt="phpmyadmin-importar-sql" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-importar-sql-300x219.png" width="300" height="219" /></a><br />
+- Selecione o arquivo e clique no botão &#8220;Executar&#8221;.</p>
+<p>Só temos um grande problema com a importação pelo phpMyAdmin, ele tem um limite padrão de 10MB, então se o seu arquivo SQL for maior que isto você não vai conseguir importá-lo, com isto resolvi fazer a importação via linha de comando e é bem simples.</p>
+<p><strong>Importação do SQL via linha de comando:</strong></p>
+<p>Para importar via linha de comando também já temos que ter um banco de dados vazio criado, mas para isto você pode continuar utilizando o phpMyAdmin.</p>
+<p>- Abra o prompt de comando (windows+r / digite: cmd);<br />
+- Digite o seguinte comando para importar:<br />
+<code>c:\xampp&gt;mysql\bin\mysql.exe -u root -p meu_banco_local &lt; c:\Users\Vanessa\Downloads\banco_producao.sql</code></p>
+<p>Detalhes que você deve se certificar antes de executar esta linha:</p>
+<p>- Caminho do executável do MySQL do seu servidor;<br />
+- Usuário e senha do banco de dados;<br />
+- Nome do banco que você criou;<br />
+- Caminho do arquivo SQL que você exportou do servidor de produção.</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/mysql-prompt.png"><img class="alignnone size-medium wp-image-1778" alt="mysql-prompt" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/mysql-prompt-300x83.png" width="300" height="83" /></a></p>
+<h2>4º: Alterar as strings de conexão com o banco</h2>
+<p>Como baixamos todos os arquivos do servidor de produção, o arquivo <code>wp-config.php</code> deve estar os as configurações de conexão com o banco de dados do servidor de produção.</p>
+<p>Abra o arquivo e arrume os parâmetros de conexão com as informações do seu servidor local.</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/wp-config.png"><img class="alignnone size-medium wp-image-1779" alt="wp-config" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/wp-config-300x236.png" width="300" height="236" /></a></p>
+<h2>5º: Alterar as URLs</h2>
+<p>Como importamos a base de dados a partir do servidor de produção, os dados da instalação são referentes a aplicação em produção e as URLs estão apontando para o endereço de produção, então devemos mudar isto para o endereço do servidor local.</p>
+<p>Para isto devemos executar alguns comandos SQL.</p>
+<p>- Abra o phpMyAdmin e selecione o banco de dados;<br />
+- Entre no link SQL, no qual vai abrir um campo de texto para executar comandos SQL</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-sql.png"><img class="alignnone size-medium wp-image-1780" alt="phpmyadmin-sql" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-sql-300x166.png" width="300" height="166" /></a></p>
+<p>A primeira tabela que vamos mexer é a wp_options onde fica grava o endereço da aplicação.<br />
+Para você ver esta informação você pode executar o seguinte comando:</p>
+<p><code>SELECT * FROM wp_options WHERE option_value LIKE "%http://%";</code></p>
+<p>Devemos mudar os valores do siteurl e home. Com o phpMyAdmin é muito simples atualizar os valores dos campos. Basta clicar no icone editar, atualizar os valores do campo option_value pela URL do servidor local salvar.</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-consulta-sql.png"><img class="alignnone size-medium wp-image-1781" alt="phpmyadmin-consulta-sql" src="http://tutsmais.com.br/blog/wp-content/uploads/2013/06/phpmyadmin-consulta-sql-300x166.png" width="300" height="166" /></a></p>
+<p>E a segunda e última tabela que precisamos mexer é a wp_posts, pois senão todos os links de sua aplicação continuarão apontando para o endereço da aplicação em produção.</p>
+<p>Você pode conferir esta informação executando o seguinte comando:</p>
+<p><code>SELECT guid FROM wp_posts;</code></p>
+<p>Para editar todas as URLs através da linha de comando, você pode executar o seguinte SQL.</p>
+<p><code>UPDATE wp_posts SET guid = REPLACE(guid, 'http://www.wordpress-exemplo.com.br/', 'http://localhost/wordpress-exemplo/');</code></p>
+<hr />
+<h2>Post Update: Caminho das imagens</h2>
+<p>Como arrumar o caminho das imagens que estão dentro dos posts?</p>
+<h3>Visualizar os dados</h3>
+<p>Caso você queira visualizar o conteúdo de todos posts basta fazer a seguinte consulta no banco de dados:<br />
+<code><br />
+SELECT *<br />
+FROM `wp_posts`<br />
+WHERE post_content<br />
+LIKE "%http://desenv%";<br />
+</code></p>
+<h3>Atualizar o caminho das imagens</h3>
+<p>Execute a query abaixo tomando os seguintes cuidados com os parâmetros da <a href="http://dev.mysql.com/doc/refman/5.0/en/string-functions.html#function_replace">função REPLACE</a>. Nos quais são: nome_da_coluna,&#8217;url-antiga&#8217;,'nova-url&#8217;.<br />
+<code><br />
+UPDATE<br />
+wp_posts<br />
+SET post_content = REPLACE(post_content,'http://www','http://desenv');<br />
+</code></p>
+<p>*Detalhe: esta query também pode alterar o caminho dos links, então seja muito cuidadoso ao utilizar a função REPLACE.</p>
+<hr />
+<p>E pronto! Só acessar sua aplicação WordPress utilizando o servidor local! <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<hr />
+<p>Basicamente é isto, existem alguns passos que podem ser feitas de maneira diferente, por exemplo utilizando linha de comando etc&#8230;<br />
+Mas essa é uma maneira &#8220;simples&#8221; para quem tem pouco conhecimento &#8220;de como as coisas funcionam&#8221;&#8230;</p>
+<p>Fiquem a vontade utilizar os comentários para tirar suas dúvidas e sugerir alternativas para executar um determinado passo deste tutorial.</p>
+<p>Até logo!</p>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/wordpress/como-migrar-uma-aplicacao-wordpress-de-um-servidor-para-outro/">Como migrar uma aplicação WordPress de um servidor para outro?</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/wordpress/como-migrar-uma-aplicacao-wordpress-de-um-servidor-para-outro/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+		<item>
+		<title>Slides de Front-end do OlhóSEO</title>
+		<link>http://tutsmais.com.br/blog/slides/slides-de-front-end-do-olhoseo/</link>
+		<comments>http://tutsmais.com.br/blog/slides/slides-de-front-end-do-olhoseo/#comments</comments>
+		<pubDate>Sun, 05 May 2013 18:11:12 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[Slides]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1748</guid>
+		<description><![CDATA[<p>Nos dias 3 e 4 de maio(2013) aconteceu o OlhóSEO em Floripa, eu infelizmente não pude ir ;´( mas pelo o que acompanhei no Twitter, o evento foi muito bom. Como eu vivo estudando mais e mais, resolvi escrever um &#8230; <a href="http://tutsmais.com.br/blog/slides/slides-de-front-end-do-olhoseo/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/slides/slides-de-front-end-do-olhoseo/">Slides de Front-end do OlhóSEO</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Nos dias 3 e 4 de maio(2013) aconteceu o <a href="http://olhoseo.com.br/" target="_blank">OlhóSEO</a> em Floripa, eu infelizmente não pude ir ;´( mas pelo o que acompanhei no Twitter, o evento foi muito bom.</p>
+<p>Como eu vivo estudando mais e mais, resolvi escrever um post para citar todos os slides de Front-end do OlhóSEO, vamos lá.<br />
+<span id="more-1748"></span></p>
+<h1>Primeiro dia</h1>
+<h2><a href="https://twitter.com/shiota" target="_blank">Eduardo Shiota</a> &#8211; Front-end para Ecommerce</h2>
+<p><script async class="speakerdeck-embed" data-id="535beaa096470130d49d4a0bed3063c9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
+<h2><a href="https://twitter.com/sergio_caelum" target="_blank">Sérgio Lopes</a> &#8211; Design Responsivo por uma Web única</h2>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/20505297" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe></p>
+<h2><a href="https://twitter.com/diegoeis" target="_blank">Diego Eis</a> &#8211; O papel do desenvolvedor Front-end</h2>
+<p><script async class="speakerdeck-embed" data-id="503b9c4754097b0002057eac" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
+<h2><a href="https://twitter.com/almirfilho" target="_blank">Almir Filho</a> &#8211; Web Audio Hero</h2>
+<p><script async class="speakerdeck-embed" data-id="d97154106db601306d261231392858a6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
+<h1>Segundo dia</h1>
+<h2><a href="https://twitter.com/priscillaac" target="_blank">Priscilla Albuquerque</a> &#8211; Desenvolvimento em tempos de UX &#8211; Como projetar para usuários exigentes</h2>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/20602193" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> </p>
+<h2><a href="https://twitter.com/GugaAlves" target="_blank">Guga Alves</a> &#8211; Otimização Front-end para WordPress</h2>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/20554557" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe></p>
+<h2><a href="https://twitter.com/caio_gondim" target="_blank">Caio Gondim</a> &#8211; HTML5 Sensitivo: Seu browser no plano astral</h2>
+<p><script async class="speakerdeck-embed" data-id="50913356b8afea0002002915" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
+<h2><a href="https://twitter.com/bernarddeluna" target="_blank">Bernard de Luna</a> &#8211; Modularização CSS</h2>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/13878948" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> </p>
+<h2><a href="https://twitter.com/fnando" target="_blank">Nando Vieira</a> &#8211; Organizando o JavaScript (Redux)</h2>
+<p><script async class="speakerdeck-embed" data-id="1d40b210971d0130dc6b2a1468281d21" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
+<h2><a href="https://twitter.com/zenorocha" target="_blank">Zeno Rocha</a> &#8211; Como Perder Peso (no browser)</h2>
+<p><script async class="speakerdeck-embed" data-id="31ed55c06ab8013086e822000a8f982b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/slides/slides-de-front-end-do-olhoseo/">Slides de Front-end do OlhóSEO</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/slides/slides-de-front-end-do-olhoseo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Como fazer um build customizado do jQuery</title>
+		<link>http://tutsmais.com.br/blog/javascript-2/como-fazer-um-build-do-jquery/</link>
+		<comments>http://tutsmais.com.br/blog/javascript-2/como-fazer-um-build-do-jquery/#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 21:08:03 +0000</pubDate>
+		<dc:creator><![CDATA[Felquis]]></dc:creator>
+				<category><![CDATA[javaScript]]></category>
+		<category><![CDATA[jquery]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[custom]]></category>
+		<category><![CDATA[grunt]]></category>
+		<category><![CDATA[nodejs]]></category>
+
+		<guid isPermaLink="false">http://tutsmais.com.br/blog/?p=1723</guid>
+		<description><![CDATA[<p>O jQuery é uma lib que contem muitos funções que tornam fazem nosso trabalho ser executado com grande velocidade, a pergunta que eu quero que você reflita é: Precisamos de todas as funcionalidades do jQuery ou apenas de algumas? Por &#8230; <a href="http://tutsmais.com.br/blog/javascript-2/como-fazer-um-build-do-jquery/">Continue lendo <span class="meta-nav">&#8594;</span></a></p><p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/javascript-2/como-fazer-um-build-do-jquery/">Como fazer um build customizado do jQuery</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2011/11/jquery-logo.png"><img src="http://tutsmais.com.br/blog/wp-content/uploads/2011/11/jquery-logo.png" alt="jquery-logo" width="268" height="268" class="alignleft size-full wp-image-1037" /></a>O jQuery é uma lib que contem muitos funções que tornam fazem nosso trabalho ser executado com grande velocidade, a pergunta que eu quero que você reflita é: Precisamos de todas as funcionalidades do jQuery ou apenas de algumas?<br />
+<span id="more-1723"></span><br />
+Por exemplo, se você precisa fazer animações com jQuery pra que você precisa dos métodos de Ajax dele? Não seria fantástico se pudessemos tirar essa parte de Ajax e deixar só o que precisamos? Pois então é isso que eu vou ensinar neste post.</p>
+<h2>Programas que você precisa ter instalados</h2>
+<p>Pra fazer esse Custom Build do jQuery você precisa ter instalado:</p>
+<ul>
+<li><a target="_blank" href="http://nodejs.org/">Nodejs.org</a></li>
+<li><a target="_blank" href="http://git-scm.com/">git-scm.com</a></li>
+<li><a target="_blank" href="http://gruntjs.com">gruntjs.com</a></li>
+</ul>
+<p>Tenha certeza que esses programas estão instalados corretamente antes de continuar os passos deste post.</p>
+<h2>Clone o repositório do jQuery</h2>
+<p><code><br />
+	git clone git://github.com/jquery/jquery.git<br />
+</code></p>
+<p>Em seguida vá para a pasta <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">jquery</spam> que foi criada, e rode o comando:</p>
+<p><code><br />
+	npm install<br />
+</code><br />
+Nota: Dependendo do seu sistema operacional, você precisará usar um <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">sudo</spam> antes do <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">npm install</spam></p>
+<p>Este comando irá instalar todas as dependências do projeto, isso pode demorar alguns minutos dependendo da velocidade da sua conexão.</p>
+<p>Depois de todas as depêndencias instaladas você vai ter uma estrutura parecidade com essa aqui:</p>
+<p><a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/04/jquery-estrutura-de-pastas.png"><img src="http://tutsmais.com.br/blog/wp-content/uploads/2013/04/jquery-estrutura-de-pastas.png" alt="jquery-estrutura-de-pastas" width="447" height="371" class="aligncenter size-full wp-image-1737" /></a></p>
+<p>Agora que já aprendemos como clonar e instalar as dependências do jQuery, vamos fazer nosso primeiro build.</p>
+<h2>Fazendo o primeiro build do jQuery</h2>
+<p>Para fazer um build do jQuery apenas rode em seu terminal:<br />
+<code><br />
+	grunt custom<br />
+</code></p>
+<p>Com este comando várias tarefas serão executadas e finalmente quando terminar, teremos a ultima versão do jQuery pronta para ser usada. Você poderá conferir que uma pasta chamada <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">dist</spam> foi criada, essa pasta contém o resultado do build, terá um arquivo chamado <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">jquery.js</spam> e outro chamado <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">jquery.min.js</spam> com seu jQuery devidamente minificado.</p>
+<p>Não é difícil né? Então vamos pro próximo passo <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /> </p>
+<h2>Navegue por diferentes versões do jQuery</h2>
+<p>Caso você não queira a ultima versão do jQuery, você pode fazer um <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">checkout</spam> em uma outra versão do jQuery e fazer um build dela.</p>
+<p>Para ver todas as versões do jQuery execute:<br />
+<code><br />
+	git tag<br />
+</code></p>
+<p>Este comando mostrará uma lista de todas as tags(versões) do jQuery, uma lista semelhante a essa:<br />
+<a href="http://tutsmais.com.br/blog/wp-content/uploads/2013/04/jquery-lista-de-tags.png"><img src="http://tutsmais.com.br/blog/wp-content/uploads/2013/04/jquery-lista-de-tags.png" alt="jquery-lista-de-tags" width="119" height="366" class="aligncenter size-full wp-image-1738" /></a></p>
+<p>Por exemplo se você precisa da versão 1.9.1 do jQuery basta executar:<br />
+<code><br />
+	git checkout 1.9.1<br />
+</code><br />
+E em seguida:<br />
+<code><br />
+	grunt custom<br />
+</code></p>
+<p>Assim que as tarefas serem concluídas, você já terá seu jQuery 1.9.1 recém tirado do forno disponível na pasta <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">dist</spam> <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /> </p>
+<h2>Fazendo um build passando parâmetros</h2>
+<p>É neste build que realmente fazemos um &#8220;Custom Build&#8221; do jQuery. Cada parâmetro que passamos, corresponde a um modulo do jQuery que não será incluído no build, por exemplo se você precisa de uma versão do jQuery sem nenhum método que manipule o CSS, basta executar o comando <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">grunt custom</spam> passando <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">-css</spam> como parâmetro:</p>
+<p><code><br />
+	grunt custom:-css<br />
+</code></p>
+<p>Sem os métodos que manipulam o CSS, nossa versão do jQuery 1.9.1 fica com 76kb, já é bem menos comparado aos 93kb que tem a versão completa.</p>
+<p>Algo que você tem que ter em mente, é que quando você coloca um parâmetro ao build, o build também irá retirar todos os modulos que dependem do modulo que você passou como parâmetro. Por exemplo o <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">-css</spam> vai retirar também o modulos <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">-effects</spam> que contem os métodos <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">.animate()</spam>, <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">.slideUp()</spam> etc..</p>
+<p>Pra você passar mais de um parâmetro é só ir separando por virgula, por exemplo uma versão do jQuery sem os métodos que manipulam CSS e sem métodos que ajudam a trabalhar com Ajax:<br />
+<code><br />
+	grunt custom:-css,-ajax<br />
+</code></p>
+<p>Essa versão do jQuery ficou com apenas 67kb, bom né? <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /> </p>
+<h2>Conhecendo os modulos que existem</h2>
+<p>Todos os nomes dos modulos, são atalhos para o código que esta na pasta <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">/src</spam> assim temos:</p>
+<ul>
+<li><strong>css:</strong> remove o método .css() e .animate() entre outros;</li>
+<li><strong>event-alias:</strong> remove atalhos para eventos como .click(), mousemove() entre outros;</li>
+<li><strong>ajax:</strong> remove todos os métodos que trabalham com ajax, como .post(), .getJSON() entre outros e também eventos como .ajaxStart()</li>
+<li><strong>ajax/script:</strong> depende de: <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">ajax</spam> remove a capacidade de carregar scripts via tag script;</li>
+<li><strong>ajax/jsonp:</strong> depende de: <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">ajax</spam> e <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">ajax/script</spam>, remove a cabacidade de carregar scripts de outros domínios;</li>
+<li><strong>ajax/xhr:</strong> depende de: <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">ajax</spam> retira apenas o XMLHTTPRequest</li>
+<li><strong>effects:</strong> depende de: <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">css</spam> remove o .animate() e atalhos par ele como .slideUp(), .slideDown() etc&#8230;</li>
+<li><strong>offset:</strong> depende de: <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">css</spam> remove os métodos .offset(), .position(), .offsetParent(), .scrollLeft(), e .scrollTop();</li>
+<li><strong>dimensions:</strong> depende de: <spam style="background: rgb(236, 236, 236);border: 1px solid silver;border-radius: 4px;padding: 1px">css</spam> Remove os métodos .width(), .height() e as variações de .innerWidth() e .outerWidth();</li>
+<li><strong>deprecated:</strong> remove todos os métodos que estão para sair das próximas atualizações do jQuery mas que ainda não foram retirados;</li>
+<li><strong>wrap:</strong> remove os métodos .wrap(), .wrapAll(), .wrapInner(), e .unwrap();</li>
+<li><strong>sizzle:</strong> remove a Sizzle selector engine do jQuery. Quando este modulo é excluído, é usado outra engine mais simples.</li>
+</ul>
+<h2>Conclusão</h2>
+<p>Usar um custom build é muito útil, pra quer usar todo o jQuery se você quer apenas 1 coisa <img src="http://tutsmais.com.br/blog/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />  Esperoq que este post tenha sido útil pra você, mais informações sobre este assunto você pode ver no <a target="_blank" href="https://github.com/jquery/jquery">readme do repositório do jQuery</a>.<br />
+Até mais.</p>
+<p>O post <a rel="nofollow" href="http://tutsmais.com.br/blog/javascript-2/como-fazer-um-build-do-jquery/">Como fazer um build customizado do jQuery</a> apareceu primeiro em <a rel="nofollow" href="http://tutsmais.com.br/blog">Tutsmais</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://tutsmais.com.br/blog/javascript-2/como-fazer-um-build-do-jquery/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

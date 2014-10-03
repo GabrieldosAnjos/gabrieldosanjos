@@ -1,0 +1,47 @@
+.container{
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+header{
+	height: 130px;
+	background: red;
+}
+
+.menu{
+	height: 30px;
+	background: green;
+	transition: height .5s ease-in-out;
+	-webkit-animation: teste 5s;
+}
+
+@-webkit-keyframes teste {
+		0% {background: green;}
+    	25% {background: blue;}
+    	50% {background: blue;}
+    	100% {background: red;}
+	}
+
+	
+
+.menu:hover{
+	height: 260px;
+	/*transition: height 3s;*/
+	
+	
+	
+}
+	
+
+.quadrado{
+	height: 200px;
+	background: yellow;
+}
+
+main{
+	height: 360px;
+}
+footer{
+	height: 130px;
+	background: red;
+}

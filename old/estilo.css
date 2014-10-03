@@ -1,0 +1,191 @@
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	padding:0px;
+	margin:0px;
+}
+
+html{
+	height:100%;
+
+}
+
+body {
+	margin:0px;
+	height:100%;
+}
+
+#tudo {
+	margin:0 auto;
+	width:882px;
+	height:767px;
+}
+
+#separador{
+	width:824px;
+	height:35px;
+	float:left;
+	margin-left:30px;
+}
+
+#principal {
+	margin:0px;
+	background-color:#FFFFFF;
+	width:100%;
+	height:737px;
+	float:left;
+}
+#principal_linkedin{
+	width:113px;
+	height:46px;
+	float:left;
+	margin-left:722px;
+	margin-top:2px;
+}
+
+#principal_logo{
+	width:673px;
+	height:377px;
+	float:left;
+	margin-left:150px;
+	margin-top:100px;
+}
+#principal_menu{
+	width:294px;
+	height:40px;
+	float:left;
+	margin-top:50px;
+	margin-left:300px;
+}
+
+#trabalhos {
+	margin:0px;
+	width:100%;
+	height:737px;
+	float:left;
+}
+
+#trabalhos_menu{
+	width:782px;
+	height:91px;
+	float:left;
+	background-color:#000000;
+	margin-left:52px;
+	margin-top:35px;
+}
+
+#trabalhos_seta_1{
+	width:32px;
+	height:34px;
+	float:left;
+	margin-top:27px;
+}
+
+#trabalhos_seta_2{
+	width:31px;
+	height:34px;
+	float:right;
+	margin-top:27px;
+}
+
+#trabalhos_principal{
+	width:855px;
+	height:466px;
+	float:left;
+	margin-top:5px;
+	margin-left:18px;
+}
+
+#trabalhos_principal_seta_1{
+	width:43px;
+	height:51px;
+	float:left;
+	margin-top:200px;
+}
+
+#trabalhos_principal_seta_2{
+	width:45px;
+	height:51px;
+	float:right;
+	margin-top:200px;
+}
+
+#trabalhos_principal_img{
+	width:735px;
+	height:466px;
+	background-color:#000000;
+	margin-left:58px;
+}
+
+#trabalhos_principal_job{
+	width:191px;
+	height:29px;
+	float:left;
+	margin-left:54px;
+	margin-top:7px;
+}
+
+#trabalhos_principal_job_descr{
+	width:680px;
+	height:57px;
+	float:left;
+	margin-top:5px;
+	margin-left:85px;
+}
+	
+	
+
+#sobremim {
+	margin:0px;
+	width:100%;
+	height:737px;
+	float:left;
+	background-image:url(_img/sobre_desenho1.jpg);
+	background-repeat:no-repeat;
+}
+
+#sobremim_texto{
+	width:673px;
+	height:279px;
+	float:left;
+	margin-top:200px;
+	margin-left:150px;
+}
+
+#sobremim_img{
+	width:736px;
+	height:178px;
+	float:left;
+	margin-left:140px;
+}
+
+#contato{
+	margin:0px;
+	width:100%;
+	height:737px;
+	float:left;
+	background-image:url(_img/contato_desenho.jpg);
+	background-repeat:no-repeat;
+}
+
+#contato_texto{
+	width:533px;
+	height:459px;
+	float:left;
+	margin-top:150px;
+	margin-left:150px;
+	background-image:url(_img/contato_texto.jpg);
+}
+
+#contato_btn{
+	width:103px;
+	height:36px;
+	float:right;
+	margin-top:427px;
+	margin-right:13px;
+	
+	}
+	
+
