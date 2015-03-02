@@ -1,7 +1,5 @@
 body{
 	background-image:url("../img/fundo.jpg");
-
-
 }
 
 .container{
@@ -237,36 +235,6 @@ footer li{
 
 /*-------Media Query-------------*/
 @media screen and (min-width: 320px) and (max-width: 600px){
-
-	header div{
-		display: none;
-	}
-
-	.menu_mobile{
-		display: block;
-	}	
-
-	#primeira, #segunda, #terceira, #quarta, #quinta, #sexta, #setima, #oitava, #nona, #decima, #decima-primeira, #decima-segunda, #decima-terceira, #decima-quarta, #decima-quinta, #decima-sexta, #linha{
-		display: none;
-	}
-
-	main{
-		background: cyan;
-		height: 100%;
-		/*position: relative;*/
-		width: 100%;
-	}
-
-	main h1{
-		background: yellow;
-		top:10%;
-		left: 13%;
-	}
-
-	footer ul{
-		display:none;
-	}
-
 
 		
 }
